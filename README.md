@@ -1,3 +1,3 @@
 # repositorio01
 PSC
-altenrando o arquivo
+alterando o arquivo
